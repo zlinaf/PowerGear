@@ -1,4 +1,4 @@
-# Ensemble
+# Ensemble Model
 The code to develop an ensemble HEC-GNN model.
 
 ## Parameters and Defaut Values
