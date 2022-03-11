@@ -1,0 +1,92 @@
+<AutoPilot:ProjectResources xmlns:AutoPilot="com.autoesl.autopilot.ui.directiveView">
+    <sourceFile name="">
+        <directive functionName="atax" label="" functionLabel="">
+            <pragma name="RESOURCE">
+                <option name="variable" value="A" positionalBoolean="4"/>
+                <option name="core" value="RAM_1P"/>
+            </pragma>
+        </directive>
+        <directive functionName="atax" label="" functionLabel="">
+            <pragma name="ARRAY_PARTITION">
+                <option name="variable" value="A" positionalBoolean="4"/>
+                <option name="cyclic" value="" positionalBoolean="type"/>
+                <option name="factor" value="1"/>
+                <option name="dim" value="2"/>
+            </pragma>
+        </directive>
+        <directive functionName="atax" label="" functionLabel="">
+            <pragma name="RESOURCE">
+                <option name="variable" value="x" positionalBoolean="4"/>
+                <option name="core" value="RAM_1P"/>
+            </pragma>
+        </directive>
+        <directive functionName="atax" label="" functionLabel="">
+            <pragma name="INTERFACE">
+                <option name="ap_fifo" value="" positionalBoolean="mode"/>
+                <option name="port" value="y_out" positionalBoolean="4"/>
+            </pragma>
+        </directive>
+        <directive functionName="atax" label="" functionLabel="">
+            <pragma name="ARRAY_PARTITION">
+                <option name="variable" value="buff_A" positionalBoolean="4"/>
+                <option name="cyclic" value="" positionalBoolean="type"/>
+                <option name="factor" value="1"/>
+                <option name="dim" value="2"/>
+            </pragma>
+        </directive>
+        <directive functionName="atax" label="" functionLabel="">
+            <pragma name="ARRAY_PARTITION">
+                <option name="variable" value="tmp1" positionalBoolean="4"/>
+                <option name="cyclic" value="" positionalBoolean="type"/>
+                <option name="factor" value="1"/>
+                <option name="dim" value="1"/>
+            </pragma>
+        </directive>
+        <directive functionName="atax" label="" functionLabel="">
+            <pragma name="ARRAY_PARTITION">
+                <option name="variable" value="buff_x" positionalBoolean="4"/>
+                <option name="cyclic" value="" positionalBoolean="type"/>
+                <option name="factor" value="1"/>
+                <option name="dim" value="1"/>
+            </pragma>
+        </directive>
+        <directive functionName="atax" label="" functionLabel="">
+            <pragma name="ARRAY_PARTITION">
+                <option name="variable" value="buff_y_out" positionalBoolean="4"/>
+                <option name="cyclic" value="" positionalBoolean="type"/>
+                <option name="factor" value="1"/>
+                <option name="dim" value="1"/>
+            </pragma>
+        </directive>
+        <directive functionName="atax" label="lprd_2" functionLabel="">
+            <pragma name="PIPELINE"/>
+        </directive>
+        <directive functionName="atax" label="lprd_2" functionLabel="">
+            <pragma name="UNROLL">
+                <option name="factor" value="1"/>
+            </pragma>
+        </directive>
+        <directive functionName="atax" label="lpwr_1" functionLabel="">
+            <pragma name="PIPELINE"/>
+        </directive>
+        <directive functionName="atax" label="lpwr_1" functionLabel="">
+            <pragma name="UNROLL">
+                <option name="factor" value="1"/>
+            </pragma>
+        </directive>
+        <directive functionName="atax" label="lp2" functionLabel="">
+            <pragma name="UNROLL">
+                <option name="factor" value="1"/>
+            </pragma>
+        </directive>
+        <directive functionName="atax" label="lp4" functionLabel="">
+            <pragma name="PIPELINE"/>
+        </directive>
+        <directive functionName="atax" label="lp4" functionLabel="">
+            <pragma name="UNROLL">
+                <option name="factor" value="1"/>
+            </pragma>
+        </directive>
+    </sourceFile>
+</AutoPilot:ProjectResources>
+
