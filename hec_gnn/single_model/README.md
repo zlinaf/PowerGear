@@ -1,4 +1,4 @@
-# Single HEC-GNN model
+# Standalone HEC-GNN model
 The code to develop a single HEC-GNN model.
 
 ## Parameters and Defaut Values
