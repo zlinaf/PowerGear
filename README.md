@@ -22,12 +22,12 @@ Compared with on-board measurement, PowerGear estimates total and dynamic power 
 
 In the training stage, graph- structured samples are constructed using HLS results, ground truth power values are collected from real measurement on board after RTL implementation, and a transferable GNN model is trained; in the inference stage, graph samples for new designs are generated after HLS runs and the trained GNN model is seamlessly employed for power prediction.
 
-## How to construct graphs
+## How to Construct Graphs
 
 Please look the details in `Readme.md` of each task inside `graph_construction` folder.
 All the information of code can be found in this folder.
 
-## How to train, test and evaluate our models
+## How to Train, Test and Evaluate Our Models
 Please look the details in `Readme.md` of each task inside `HEC_GNN` folder.
 All the information of code, and pretrained models can be found in this folder.
 
