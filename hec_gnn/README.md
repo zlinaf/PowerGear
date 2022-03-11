@@ -1,4 +1,4 @@
-# [Heterogeneous Edge-Centric GNNs(HEC-GNNs)](https://arxiv.org/abs/2201.10114)
+# [Heterogeneous Edge-Centric GNNs (HEC-GNNs)](https://arxiv.org/abs/2201.10114)
 We propose a novel power-aware heterogeneous edge-centric GNN model which effectively learns heterogeneous edge semantics and structural properties of the constructed graphs via edge-centric neighborhood aggregation, and fits the formulation of dynamic power.
 
 ## Overview
