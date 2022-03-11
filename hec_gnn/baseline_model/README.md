@@ -1,7 +1,7 @@
-# Baseline model
+# Baseline Models for Comparison
 The baseline GNN models for comparison in the experiments.
 
-## Default
+## Parameters and Default Values
 
 	--layer_num 3
 	--hidden_dim 128  # hidden layer dimension
