@@ -6,7 +6,8 @@ We propose PowerGear, a graph-learning-assisted power estimation approach for FP
 Compared with on-board measurement, PowerGear estimates total and dynamic power for new HLS designs with errors of 3.60% and 8.81%, respectively, which outperforms the prior arts in research and the commercial product Vivado. In addition, PowerGear demonstrates a speedup of 4× over Vivado power estimator. Finally, we present a case study in which PowerGear is exploited to facilitate design space exploration for FPGA HLS, leading to a performance gain of up to 11.2%, compared with methods using state-of-the-art predictive models.
 
 ```
-More details could be found in our DATE 2022 paper. Please cite it if you find anything helpful for your research.
+
+More details could be found in our DATE 2022 paper. Please cite it if you use our work in your research.
 @inproceedings{lin2022powergear,
   title={PowerGear: Early-Stage Power Estimation in FPGA HLS via Heterogeneous Edge-Centric GNNs},
   author={Lin, Zhe and Yuan, Zike and Zhao, Jieru and Zhang, Wei and Wang, Hui and Tian, Yonghong},
