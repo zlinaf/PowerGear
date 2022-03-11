@@ -7,7 +7,7 @@ We propose a novel heterogeneous edge-centric GNN model for power modeling, whic
   <img width="65%" src='../pic/hecgnn.png' />
 </p>
 
-## How to train, test and evaluate our models
+## How to Train, Test and Evaluate Our Models
 * If you want to use single HEC_GNN model, please look the details in `Readme.md` of  `single_model` folder.
 * If you want to use ensemble model of HEC_GNN, please look the details in `Readme.md` of  `ensemble_model` folder.
 
