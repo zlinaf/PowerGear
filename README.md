@@ -9,7 +9,7 @@ Compared with on-board measurement, PowerGear estimates total and dynamic power 
 @inproceedings{lin2022powergear,
   title={PowerGear: Early-Stage Power Estimation in FPGA HLS via Heterogeneous Edge-Centric GNNs},
   author={Lin, Zhe and Yuan, Zike and Zhao, Jieru and Zhang, Wei and Wang, Hui and Tian, Yonghong},
-  booktitle={{Proc. of Design, Automation and Test in Europe Conference(DATE 2022)},
+  booktitle={{Procs. of Design, Automation and Test in Europe Conference (DATE 2022)},
   year={2022}
 }
 ```
