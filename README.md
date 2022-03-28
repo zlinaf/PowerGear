@@ -11,7 +11,7 @@ More details could be found in our DATE 2022 paper. If PowerGear is helpful to y
 @inproceedings{lin2022powergear,
   title={PowerGear: Early-Stage Power Estimation in FPGA HLS via Heterogeneous Edge-Centric GNNs},
   author={Lin, Zhe and Yuan, Zike and Zhao, Jieru and Zhang, Wei and Wang, Hui and Tian, Yonghong},
-  booktitle={Procs. of Design, Automation and Test in Europe Conference & Exhibition (DATE 2022)},
+  booktitle={Procs. of Design, Automation and Test in Europe Conference and Exhibition (DATE 2022)},
   year={2022}
 }
 ```
