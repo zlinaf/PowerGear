@@ -26,7 +26,7 @@ In the training stage, graph- structured samples are constructed using HLS resul
 
 ## How to Construct Graphs from HLS
 
-Please look at the `Readme.md` file of each subfolder inside the `graph_construction` folder.
+Please look at the `Readme.md` file of each subfolder inside `graph_construction` folder.
 All the program infromation can be found.
 
 ## How to Train, Test and Evaluate Our Models
