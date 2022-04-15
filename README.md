@@ -27,11 +27,11 @@ In the training stage, graph- structured samples are constructed using HLS resul
 ## How to Construct Graphs from HLS
 
 Please look at the details in `Readme.md` of each subfolder inside the `graph_construction` folder.
-All the program details can be found.
+All the program infromation can be found.
 
 ## How to Train, Test and Evaluate Our Models
-Please look the details in `Readme.md` of each task inside `HEC_GNN` folder.
-All the information of code, and pretrained models can be found in this folder.
+Please look at the details in `Readme.md` of each task inside `HEC_GNN` folder.
+All the program infromation and pretrained models can be found.
 
 
 ## File Architecture
