@@ -27,7 +27,7 @@ We propose a novel heterogeneous edge-centric GNN model for power modeling, whic
     │   └── example                     
   
 
-## Requirements
+## Requirements 
 
  - [PyTorch 1.7.0](https://pytorch.org/get-started/locally/) 
  - [torch-geometric 1.6.3](https://pytorch-geometric.readthedocs.io/en/latest/index.html)
